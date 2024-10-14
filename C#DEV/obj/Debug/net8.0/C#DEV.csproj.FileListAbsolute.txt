@@ -1,0 +1,14 @@
+/Users/adeliya/C#DEV/C#DEV/bin/Debug/net8.0/C#DEV
+/Users/adeliya/C#DEV/C#DEV/bin/Debug/net8.0/C#DEV.deps.json
+/Users/adeliya/C#DEV/C#DEV/bin/Debug/net8.0/C#DEV.runtimeconfig.json
+/Users/adeliya/C#DEV/C#DEV/bin/Debug/net8.0/C#DEV.dll
+/Users/adeliya/C#DEV/C#DEV/bin/Debug/net8.0/C#DEV.pdb
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.AssemblyInfoInputs.cache
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.AssemblyInfo.cs
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.csproj.CoreCompileInputs.cache
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.dll
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/refint/C#DEV.dll
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.pdb
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/C#DEV.genruntimeconfig.cache
+/Users/adeliya/C#DEV/C#DEV/obj/Debug/net8.0/ref/C#DEV.dll
